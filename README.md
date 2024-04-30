@@ -10,7 +10,7 @@ Discord-server: https://discord.gg/zMjzfJuk26
 Please follow this steps to install the mod:
 
 - Download
-- Downloadlinks:
+- Download links:
   - v1.0: https://1drv.ms/u/s!Aoewc4OwWBmLgdxfKsVSbbBp9vXg4A?e=JNYZgJ     
   - Alternate link 1: https://drive.google.com/file/d/1qEt-wrk7eeIdLYDFwYECU7OpJnUWFdiZ/view?usp=sharing
   - Alternate link 2: https://drive.google.com/file/d/1TgcG51DJ203wnfm7IXk_Uc5dsRrTUHhd/view?usp=sharing
