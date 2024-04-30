@@ -170,6 +170,9 @@ The Camrig is purely a visual feature.
 
 The camera tracks enemy units automatically to add some immersion.
 
+### Donations
+https://ko-fi.com/taesimulations
+
 
 ### Additional 3D Models used in this project:
 
