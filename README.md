@@ -15,7 +15,7 @@ Please follow this steps to install the mod:
   - Alternate link 1: https://drive.google.com/file/d/1qEt-wrk7eeIdLYDFwYECU7OpJnUWFdiZ/view?usp=sharing
   - Alternate link 2: https://drive.google.com/file/d/1TgcG51DJ203wnfm7IXk_Uc5dsRrTUHhd/view?usp=sharing
 - Unzip the .zip file
-- Close DCS
+- Make sure DCS is shut down
 - Copy the the Folders "**Mods**" and "**Scripts**" to the to DCS folder in **Saved Games**  
   e.g. C:\Users\XXX\Saved Games\DCS.openbeta\
 
