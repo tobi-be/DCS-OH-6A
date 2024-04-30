@@ -53,13 +53,13 @@ There is a training mission available. Please do the training mission to get fam
 * Open fuel valve (midpanel)
 * Press Govenor trim decrease for 7 seconds 
 * Press and keep pressed starter button
-* Turn throttle to idle (Ins) when N1 reaches 12 to 15%
+* Turn throttle to idle (Default: Insert) when N1 reaches 12 to 15%
 * Keep pressing starter button until N1 reaches 60%
 * Enable Generator
 * Enable Inverter
 * Gyro to Magnetic (On)
 * Adjust Altimeter
-* Increase Throttle (PG UP) step by step to increase N2.
+* Increase Throttle (Default: Page Up) step by step to increase N2.
 * When Throttle is max and N2 is stable adjust N2 with the Govenir trim increase/decrease.
 
 ## Flyingtips
@@ -104,7 +104,7 @@ The actual selected color is displayed in the Crew Status Overlay.
 
 The M27 armament subsystem is used on the left side of the aircraft. It consists of an 7.62 mm M134 machine gun and an XM70E1 reflex sight. 
 
-The elevation of the gun can be controlled with switches at the cyclic. (default up: U, down J) 
+The elevation of the gun can be controlled with switches at the cyclic. (Default up: U, down: J) 
 
 The reflex sight can be positioned in front of the pilots face or stowed by clicking it or by pressing "O". 
 The height of the sight can be adjusted by pressing R (up) or F (down). 
@@ -121,9 +121,9 @@ Press "Space" to fire the gun.
 
 Rockets are rarely used as they are quite heavy for the Loach. 
 
-In order to use the rockets the Armed-Safe switch at the armament panel needs to be switched to armed.
+In order to use the rockets the Armed-Safe switch on the armament panel needs to be switched to armed.
 
-The Weapons selector switch at the rocket panel needs to be switched to 40. 
+The Weapons selector switch on the rocket panel needs to be switched to 40. 
 
 The number of rocket pairs needs to be selected (>0).
 
@@ -131,9 +131,9 @@ To fire rockets press "Space" until the salvo is complete.
 
 ### Doorgunner
 
-The OH-6A can be equipped with an AI M60 Doorgunner at the right side. (a M134-Doorgun is implemented to but it was not a real usecase and there is no Gunner model yet.)
+The OH-6A can be equipped with an AI M60 Doorgunner on the right side. (a M134-Doorgun is implemented too but it was not a real usecase and there is no Gunner model yet.)
 
-The ROE of the Gunner can be toggled between hold and fire (Default: M)
+The ROE for the Gunner can be toggled between hold and fire (Default: M)
 
 The burstlength can be toggled between LONG and SHORT (Default: RALT+M)
 
