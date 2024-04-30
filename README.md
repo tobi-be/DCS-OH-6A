@@ -14,7 +14,7 @@ Please follow this steps to install the mod:
 
 - Unzip the .zip file
 
-- Copy the the Folders Mods and Scripts to the to DCS folder in **Saved Games**  
+- Copy the the Folders "**Mods**" and "**Scripts**" to the to DCS folder in **Saved Games**  
   e.g. C:\Users\XXX\Saved Games\DCS.openbeta\
 
 ## Known issues
@@ -168,3 +168,12 @@ If you want to use Manual Mode or Ground locked Mode again you have to press Tog
 The Camrig is purely a visual feature.
 
 The camera tracks enemy units automatically to add some immersion.
+
+
+### Additional 3D Models used in this project:
+
+- "Sunglasses_Free" (https://sketchfab.com/3d-models/sunglasses-free-deeb41e3f5f1480bb6f79f474c9f7ef5) by AlvaWong (https://sketchfab.com/alvawong06)
+- "M60 Light Machine Gun" (https://sketchfab.com/3d-models/m60-light-machine-gun-cbf408387dc94a30abe11afb3698ac13) by Pieter Ferreira (https://sketchfab.com/Badboy17Aiden)
+- "Army Helmet | USS SAIPAN" (https://sketchfab.com/3d-models/army-helmet-uss-saipan-de5ab81a25ec470980f3c82e3d88188f) by Pieter Ferreira (https://sketchfab.com/ipoprock)
+- "M18 Smoke Grenade" (https://sketchfab.com/3d-models/m18-smoke-grenade-6dbb48151a9147b4830aa7bf55fc8282) by RedRogueXIII (https://sketchfab.com/RedRogueXIII)
+- "M134 handheld (Minigun)" (https://sketchfab.com/3d-models/m134-handheld-minigun-8f008c3e18934707a834cde8c72364f5) by Alexander_Borisevich (https://sketchfab.com/boriseviav)
