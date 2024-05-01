@@ -183,3 +183,4 @@ https://ko-fi.com/taesimulations
 - "Army Helmet | USS SAIPAN" (https://sketchfab.com/3d-models/army-helmet-uss-saipan-de5ab81a25ec470980f3c82e3d88188f) by Pieter Ferreira (https://sketchfab.com/ipoprock)
 - "M18 Smoke Grenade" (https://sketchfab.com/3d-models/m18-smoke-grenade-6dbb48151a9147b4830aa7bf55fc8282) by RedRogueXIII (https://sketchfab.com/RedRogueXIII)
 - "M134 handheld (Minigun)" (https://sketchfab.com/3d-models/m134-handheld-minigun-8f008c3e18934707a834cde8c72364f5) by Alexander_Borisevich (https://sketchfab.com/boriseviav)
+- "Fire Extinguisher" (https://sketchfab.com/3d-models/fire-extinguisher-7fbd47c7e423461b86d599d30f4dfb33) by Kantemir (https://sketchfab.com/parabe11um789)
