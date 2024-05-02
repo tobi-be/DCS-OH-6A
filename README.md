@@ -14,6 +14,7 @@ Please follow this steps to install the mod:
   - v1.0: https://1drv.ms/u/s!Aoewc4OwWBmLgdxfKsVSbbBp9vXg4A?e=JNYZgJ     
   - Alternate link 1: https://drive.google.com/file/d/1qEt-wrk7eeIdLYDFwYECU7OpJnUWFdiZ/view?usp=sharing
   - Alternate link 2: https://drive.google.com/file/d/1TgcG51DJ203wnfm7IXk_Uc5dsRrTUHhd/view?usp=sharing
+  - Alternate link 3: https://1drv.ms/u/s!Aoewc4OwWBmLgdxfKsVSbbBp9vXg4A?e=um0nIN
   - Torrent (Kindly provided by Tetet): https://tetet.de/dcs/torrent/OH-6A-Modpack_v1.torrent
 - Unzip the .zip file
 - Make sure DCS is shut down
