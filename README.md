@@ -9,14 +9,21 @@ Discord-server: https://discord.gg/zMjzfJuk26
 
 Please follow this steps to install the mod:
 
-- Download
-- Download links:
-  - v1.0: https://1drv.ms/u/s!Aoewc4OwWBmLgdxfKsVSbbBp9vXg4A?e=Zk69rE   
+- Download in pieces:
+  - OH-6A-Modpack_OH-6A_v1.zip
+  - OH-6A-Modpack_VAP_v1.zip
+  - OH-6A-Modpack_Liveries_v1.zip
+
+  from
+
+  https://github.com/tobi-be/DCS-OH-6A/releases/tag/v1.0
+  
+- **Or** Download complete Mod (might be broken):
   - Alternate link 1: https://drive.google.com/file/d/1qEt-wrk7eeIdLYDFwYECU7OpJnUWFdiZ/view?usp=sharing
   - Alternate link 2: https://drive.google.com/file/d/1TgcG51DJ203wnfm7IXk_Uc5dsRrTUHhd/view?usp=sharing
   - Alternate link 3: https://1drv.ms/u/s!Aoewc4OwWBmLgdxfKsVSbbBp9vXg4A?e=um0nIN
   - Torrent (Kindly provided by Tetet): https://tetet.de/dcs/torrent/OH-6A-Modpack_v1.torrent
-- Unzip the .zip file
+- Unzip the .zip file/files
 - Make sure DCS is shut down
 - Copy the the Folders "**Mods**" and "**Scripts**" to the to DCS folder in **Saved Games**  
   e.g. C:\Users\XXX\Saved Games\DCS.openbeta\ or C:\Users\XXX\Saved Games\DCS\
