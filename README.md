@@ -10,15 +10,15 @@ Discord-server: https://discord.gg/zMjzfJuk26
 Please follow this steps to install the mod:
 
 - Download in pieces:
-  - OH-6A-Modpack_OH-6A_v1.zip
-  - OH-6A-Modpack_VAP_v1.zip
-  - OH-6A-Modpack_Liveries_v1.zip
+  - OH-6A-Modpack_OH-6A_v1.zip (The helo)
+  - OH-6A-Modpack_VAP_v1.zip  (The Vietnam Assets Pack)
+  - OH-6A-Modpack_Liveries_v1.zip (The liveries for the OH-6A)
 
   from
 
   https://github.com/tobi-be/DCS-OH-6A/releases/tag/v1.0
   
-- **Or** Download complete Mod (might be broken):
+- **Or** Download complete Mod (Alternate links might be broken, favor the torrent):
   - Alternate link 1: https://drive.google.com/file/d/1qEt-wrk7eeIdLYDFwYECU7OpJnUWFdiZ/view?usp=sharing
   - Alternate link 2: https://drive.google.com/file/d/1TgcG51DJ203wnfm7IXk_Uc5dsRrTUHhd/view?usp=sharing
   - Alternate link 3: https://1drv.ms/u/s!Aoewc4OwWBmLgdxfKsVSbbBp9vXg4A?e=um0nIN
