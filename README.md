@@ -115,10 +115,10 @@ The actual selected color is displayed in the Crew Status Overlay.
 
 The M27 armament subsystem is used on the left side of the aircraft. It consists of an 7.62 mm M134 machine gun and an XM70E1 reflex sight. 
 
-The elevation of the gun can be controlled with switches at the cyclic. (Default up: U, down: J) 
+The elevation of the gun can be controlled with switches on the cyclic. (Default up: U, down: J) 
 
 The reflex sight can be positioned in front of the pilots face or stowed by clicking it or by pressing "O". 
-The height of the sight can be adjusted by pressing R (up) or F (down). 
+The height of the sight can be adjusted by pressing Z (up) or H (down). 
 
 In order to fire the minigun the Armed-Safe switch at the armament panel needs to be switched to armed.
 
