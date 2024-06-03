@@ -10,10 +10,11 @@ Discord-server: https://discord.gg/zMjzfJuk26
 Please follow this steps to install the mod:
 
 - Download zips from:
+  https://github.com/tobi-be/DCS-OH-6A/releases/tag/v1.2
   
+   previous Releases:
+
   https://github.com/tobi-be/DCS-OH-6A/releases/tag/v1.1
-  
-  previous Releases:
 
   https://github.com/tobi-be/DCS-OH-6A/releases/tag/v1.0
   
