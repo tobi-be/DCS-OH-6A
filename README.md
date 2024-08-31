@@ -7,23 +7,27 @@ Discord-server: https://discord.gg/zMjzfJuk26
 
 ## How to install
 
-Please follow this steps to install the mod:
+The mod pack is splitted into following parts. Follow each installation steps described in the release notes:
 
-- Download zips from:
-  https://github.com/tobi-be/DCS-OH-6A/releases/tag/v1.2
-  
-   previous Releases:
+### OH-6A:
+https://github.com/tobi-be/DCS-OH-6A/releases/tag/v1.4
+### OH-6A Livery Pack:
+https://github.com/tobi-be/DCS-OH-6A/releases/tag/Liverypack_v1.3
+### Vietnam Assets Pack:
+https://github.com/tobi-be/DCS-OH-6A/releases/tag/VAPv1.0
+### Playground Pack:
+https://github.com/tobi-be/DCS-OH-6A/releases/tag/opp-v1.0
 
-  https://github.com/tobi-be/DCS-OH-6A/releases/tag/v1.1
-
-  https://github.com/tobi-be/DCS-OH-6A/releases/tag/v1.0
-  
+### Setup
+- Download zips
 - Unzip the .zip file/files
 - Make sure DCS is shut down
 - Copy the the Folders "**Mods**", "**Tech**" and "**Scripts**" to the to DCS folder in **Saved Games**  
   e.g. C:\Users\XXX\Saved Games\DCS.openbeta\ or C:\Users\XXX\Saved Games\DCS\
 
+previous Releases:
 
+  https://github.com/tobi-be/DCS-OH-6A/releases
 
 ## Known issues
 
@@ -32,9 +36,10 @@ Please have in mind that this is a community mod done by a small team in their s
 Known issues which might be fixed in the future
 - missing Copilots model
 - missing Minigun Doorgunner model
-- ADF not working
 - Mod is not designed to be used as AI. It might show faulty behaviour
 - Target prioritization of the doorgunner is not implemented yet.
+- On missions with a lot of units doorgunner scripts can cause micro stuttering. 
+  Remove gunner_export_hook.lua from Saved Games\DCS.openbeta\Scripts\Hooks to avoid it (Doorgunner won't be functional anymore)
 
 Known issues due to modding limitations
 - Limited radio functionalities
@@ -68,7 +73,7 @@ There is a training mission available. Please do the training mission to get fam
 * Gyro to Magnetic (On)
 * Adjust Altimeter
 * Increase Throttle (Default: Page Up) step by step to increase N2.
-* When Throttle is max and N2 is stable adjust N2 with the Govenir trim increase/decrease.
+* When Throttle is max and N2 is stable adjust N2 with the governor trim increase/decrease.
 
 ## Flyingtips
 
@@ -177,11 +182,50 @@ The Camrig is purely a visual feature.
 
 The camera tracks enemy units automatically to add some immersion.
 
-### Donations
+### Floaters
+
+Floaters can be equipped to be able to land on water. 
+
+## Radios
+In order to choose the transmitting radio one has to use the lower intercom panel selection knob (PVT, INT, 1, 2, 3, 4)
+### FM AN/ARC-54
+Frequency Range:  30.00 to 69.95 MHz FM
+
+Intercom panel knob: 1
+
+### VHF AN/ARC-54
+Frequency Range:  225 to 400 MHz AM
+
+Intercom panel knob: 2
+
+
+Frequency can be dialed in manually or by using presets. The presets can be adapted in the mission editor.
+
+
+## ADF
+
+The OH-6A is equipped with a ADF System. The device is at the mainpanel close to the fuel indicator. 
+-  Switch the power knob (Off/ADF/ANT/LOOP) to ADF.
+-  Tune in the AM frequency (Display is in kHz). There are 3 bands (0.19-0.40, 0.40-0.84, 0.84-1.7 MHz), 
+-  The indicator above the Tune Knob show the signal level.
+
+Since this is done without SDK one will not hear signals. Only beacons which are placed in ME are available.
+
+## RWR
+The OH-6A was never equipped with RWR. Nevertheless we added it optionally since we had some free space on the main panel. To enable it one has to check the checkbox in mission editor at the additional properties tab.
+Keybinds are available but are without default keys. (Search for RWR)
+
+## Chaff/Flare Dispenser
+The OH-6A was never equipped with Chaff/Flare Dispenser. Nevertheless we added it optionally. To enable it one has to check the checkbox in mission editor at the additional properties tab.
+
+If enabled there is a little additional panel above the electric panel. 
+Keybinds are available but are without default keys. (Search for Flares)
+
+## Donations
 https://ko-fi.com/taesimulations
 
 
-### Additional 3D Models used in this project:
+## Additional 3D Models used in this project:
 
 - "Sunglasses_Free" (https://sketchfab.com/3d-models/sunglasses-free-deeb41e3f5f1480bb6f79f474c9f7ef5) by AlvaWong (https://sketchfab.com/alvawong06)
 - "M60 Light Machine Gun" (https://sketchfab.com/3d-models/m60-light-machine-gun-cbf408387dc94a30abe11afb3698ac13) by Pieter Ferreira (https://sketchfab.com/Badboy17Aiden)
