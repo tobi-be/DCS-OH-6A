@@ -45,7 +45,7 @@ Known issues due to modding limitations
 - Limited radio functionalities
 - no return fire ROE for Doorgunner
 - Smoke grenades ignite on impact and not time-delayed
-- Weapon sounds cannot not be changed.
+- Weapon sounds cannot be changed.
 - The OH-6A needs to be shut down to be able to rearm, refuel and repair.
 - Multicrew. Multicrew is a topic for it self. We decided not to implement it as long as it works properly.
 
