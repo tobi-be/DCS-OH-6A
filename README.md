@@ -14,7 +14,7 @@ https://github.com/tobi-be/DCS-OH-6A/releases/tag/v1.4
 ### OH-6A Livery Pack:
 https://github.com/tobi-be/DCS-OH-6A/releases/tag/Liverypack_v1.3
 ### Vietnam Assets Pack:
-https://github.com/tobi-be/DCS-OH-6A/releases/tag/VAPv1.1
+https://github.com/tobi-be/DCS-OH-6A/releases/tag/VAPv1.2
 ### Playground Pack:
 https://github.com/tobi-be/DCS-OH-6A/releases/tag/opp-v1.0
 
