@@ -12,7 +12,7 @@ The mod pack is splitted into following parts. Follow each installation steps de
 ### OH-6A:
 https://github.com/tobi-be/DCS-OH-6A/releases/tag/v1.4
 ### OH-6A Livery Pack:
-https://github.com/tobi-be/DCS-OH-6A/releases/tag/Liverypack_v1.3
+https://github.com/tobi-be/DCS-OH-6A/releases/tag/LiveryPack_v1.4
 ### Vietnam Assets Pack:
 https://github.com/tobi-be/DCS-OH-6A/releases/tag/VAPv1.2
 ### Playground Pack:
