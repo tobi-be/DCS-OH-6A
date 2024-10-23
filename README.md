@@ -10,7 +10,7 @@ Discord-server: https://discord.gg/zMjzfJuk26
 The mod pack is splitted into following parts. Follow each installation steps described in the release notes:
 
 ### OH-6A:
-https://github.com/tobi-be/DCS-OH-6A/releases/tag/v1.4
+https://github.com/tobi-be/DCS-OH-6A/releases/tag/v1.5
 ### OH-6A Livery Pack:
 https://github.com/tobi-be/DCS-OH-6A/releases/tag/Liverypack_v1.3
 ### Vietnam Assets Pack:
