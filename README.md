@@ -47,6 +47,8 @@ Known issues due to modding limitations
 - Smoke grenades ignite on impact and not time-delayed
 - Weapon sounds cannot be changed.
 - The OH-6A needs to be shut down to be able to rearm, refuel and repair.
+- Releasing slingload is not possible.
+- Forces caused by slingload do not act on the helicopter.
 - Multicrew. Multicrew is a topic for it self. We decided not to implement it as long as it works properly.
 
 ## FAQ
